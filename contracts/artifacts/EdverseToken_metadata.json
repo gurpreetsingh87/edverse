@@ -328,7 +328,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ERC-20.sol": "EdverseToken"
+			"contracts/EDVToken.sol": "EdverseToken"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -342,20 +342,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ERC-20.sol": {
-			"keccak256": "0x1b2d11d9fd44963eccd5d19077cda0e85badb09a1ff13c4ec07453e6768e68e6",
-			"license": "MIT",
+		"contracts/EDVToken.sol": {
+			"keccak256": "0xddbe97b1fb73711fa0f83336acf2a67c95cf6638ca8a8049ace34d0da952bb79",
+			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://a0c9fd595697a7cebcae5c46a0734b351b4ef99337fc844cc3f7fc6bd4a49981",
-				"dweb:/ipfs/QmXg4yAWgw9F9YGzaLpsgP8ycpAijNSAv9Sf5YzASii2D6"
+				"bzz-raw://5cc8cbaef86b93816512a99cf7329253854c885c5661f908e937bd56aed361c7",
+				"dweb:/ipfs/QmR881NjTHnRhHeFJ4q29BF4zQQJMxMsYF9gdtMZoBcfwB"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol": {
-			"keccak256": "0x24b04b8aacaaf1a4a0719117b29c9c3647b1f479c5ac2a60f5ff1bb6d839c238",
+			"keccak256": "0xd7d3e7686d4ed743649de993d276044d90c8fb939f9f04a51bf65175c3d40f6f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://43e46da9d9f49741ecd876a269e71bc7494058d7a8e9478429998adb5bc3eaa0",
-				"dweb:/ipfs/QmUtp4cqzf22C5rJ76AabKADquGWcjsc33yjYXxXC4sDvy"
+				"bzz-raw://49940062e02c250826c5dd945ce4e9bbea9af8e29117f8f63d84eb1264a51bd3",
+				"dweb:/ipfs/QmU6gSFCbBrvBSoAaQEvTnFrFA1QCfkFhDh36xdR57SFMr"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol": {
